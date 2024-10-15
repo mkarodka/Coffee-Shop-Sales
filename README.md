@@ -4,48 +4,7 @@
 
 This project focuses on analyzing sales data from a fictional coffee shop using Microsoft Excel. The analysis includes generating insightful pivot tables, charts, and a dashboard to better understand sales patterns, product performance, and key metrics. The main objective is to demonstrate Excel-based data analysis, focusing on visualization and interpretation of business data.
 
-## Files in the Repository
-
-- **Coffee_Shop_Analysis.xlsx**: 
-  - Contains the raw sales data, pivot tables, and the final dashboard.
-  - The data includes key attributes like date, product categories, sales amount, quantity, and more.
-  - Pivot tables are used to summarize the data by different dimensions such as time, product, and sales channels.
-  - Dashboard provides interactive charts and graphs for better data visualization.
-
-## Key Features of the Project
-
-- **Sales Data Analysis**: 
-  - The raw data is processed using Excel’s pivot table feature to summarize key metrics such as total sales, average sales per product, sales by category, and time trends.
-  
-- **Interactive Dashboard**: 
-  - The dashboard provides a visually appealing, user-friendly interface, summarizing sales data through interactive charts like bar graphs, line charts, and pie charts.
-  - The dashboard allows users to slice and dice the data across different dimensions like time and product.
-
-- **Key Insights**:
-  - **Best-selling products and categories**: Pivot tables summarize which products or categories generate the highest revenue, making it easier to identify top performers.
-  - **Sales trends over time**: The dashboard's time-based analysis helps visualize how sales fluctuate over months or other periods.
-  - **Low-performing items**: The dashboard's filtering options allow users to quickly pinpoint underperforming products, providing actionable insights for business strategy.
-
-## Business Questions Answered in the Dashboard
-
-The analysis in this project answers several key business questions:
-
-1. **Which products have the highest sales?**
-   - The dashboard features a bar chart that displays product sales in descending order, providing clear visibility on top-selling items.
-   
-2. **How are sales performing over time (monthly/quarterly)?**
-   - A line graph tracks sales trends over time, showing the performance of the coffee shop across different months and quarters.
-
-3. **Which product categories are performing the best?**
-   - The dashboard contains a pie chart that segments sales by product categories, making it easy to identify which category contributes the most to total revenue.
-# Coffee Shop Sales Analysis
-
 ![Dashboard Screenshot](<Coffee_Shop_Sales_Analysis.png>)
-
-
-## Project Overview
-
-This project focuses on analyzing sales data from a fictional coffee shop using Microsoft Excel. The analysis includes generating insightful pivot tables, charts, and a dashboard to better understand sales patterns, product performance, and key metrics. The main objective is to demonstrate Excel-based data analysis, focusing on visualization and interpretation of business data.
 
 ## Files in the Repository
 
