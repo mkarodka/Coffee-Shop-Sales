@@ -40,7 +40,7 @@ The analysis in this project answers several key business questions:
    - The dashboard contains a pie chart that segments sales by product categories, making it easy to identify which category contributes the most to total revenue.
 # Coffee Shop Sales Analysis
 
-![Dashboard Screenshot](<img width="1468" alt="Coffee_Shop_Sales_Analysis" src="https://github.com/user-attachments/assets/297cc003-b67d-4b10-bc94-0bbd6ea9be1e">)
+![Dashboard Screenshot](<Coffee_Shop_Sales_Analysis.png>)
 
 
 ## Project Overview
