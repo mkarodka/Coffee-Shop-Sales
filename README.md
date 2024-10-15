@@ -13,6 +13,10 @@ This project focuses on analyzing sales data from a fictional coffee shop using 
   - The data includes key attributes like date, product categories, sales amount, quantity, and more.
   - Pivot tables are used to summarize the data by different dimensions such as time, product, and sales channels.
   - Dashboard provides interactive charts and graphs for better data visualization.
+ 
+## Data Source
+
+The data used in this project was sourced from [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground).
 
 ## Key Features of the Project
 
