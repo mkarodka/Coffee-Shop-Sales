@@ -14,10 +14,6 @@ This project focuses on analyzing sales data from a fictional coffee shop using 
   - Pivot tables are used to summarize the data by different dimensions such as time, product, and sales channels.
   - Dashboard provides interactive charts and graphs for better data visualization.
 
-- **Project_Info_Document.docx**:
-  - Describes the approach, key findings, and insights gained from the analysis.
-  - Answers important business questions using data visualization and pivot tables.
-
 ## Key Features of the Project
 
 - **Sales Data Analysis**: 
