@@ -75,6 +75,7 @@ This project demonstrates how Excel can be used effectively for data analysis an
 
 If you have any questions about this project or would like to discuss data analysis, feel free to reach out to me on LinkedIn.
 
-**LinkedIn**: [https://www.linkedin.com/in/mugdha-karodkar]  
-**GitHub**: [https://www.github.com/mkarodka/Coffee-Shop-Sales]
+**LinkedIn**: [Mugdha Karodkar](https://www.linkedin.com/in/mugdha-karodkar)  
+**GitHub**: [Coffee Shop Sales Project](https://www.github.com/mkarodka/Coffee-Shop-Sales)
+
 
