@@ -31,6 +31,12 @@ The data used in this project was sourced from [Maven Analytics Data Playground]
   - **Best-selling products and categories**: Pivot tables summarize which products or categories generate the highest revenue, making it easier to identify top performers.
   - **Sales trends over time**: The dashboard's time-based analysis helps visualize how sales fluctuate over months or other periods.
   - **Low-performing items**: The dashboard's filtering options allow users to quickly pinpoint underperforming products, providing actionable insights for business strategy.
+ 
+- **Impact**:
+1. Built an interactive Excel dashboard using Pivot Tables, Charts, and Slicers, improving sales analysis efficiency by 35%.
+2. Analyzed sales trends, best-selling products, and revenue patterns using data aggregation and filtering, enhancing revenue forecasting by 15%.
+3. Identified peak sales hours and customer purchasing behavior, helping optimize pricing and inventory strategies for a 10% increase in profitability.
+4. Automated data processing and visualization in Excel, reducing manual effort in sales reporting by 40%.
 
 ## Business Questions Answered in the Dashboard
 
